@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+PyMySQL
+SQLAlchemy
+cryptography
+PyJWT
+fpdf2
